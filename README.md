@@ -34,8 +34,8 @@ For this project, you will build a message generator program. Every time a user 
 
 To run this project, install it locally using node and the file location:
 
-'$ cd ../folder'
-'$ node script.js'
+`$ cd ../folder`
+`$ node script.js`
 
 ### Technologies
 
@@ -45,5 +45,3 @@ To run this project, install it locally using node and the file location:
 
 
 [codecademy]: https://www.codecademy.com/
-
-# my_message_generator
